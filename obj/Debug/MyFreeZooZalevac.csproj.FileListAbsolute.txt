@@ -1,0 +1,15 @@
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\bin\Debug\MyFreeZooZalevac.exe.config
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\bin\Debug\MyFreeZooZalevac.exe
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\bin\Debug\MyFreeZooZalevac.pdb
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\obj\Debug\MyFreeZooZalevac.csproj.AssemblyReference.cache
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\obj\Debug\MyFreeZooZalevac.Properties.Resources.resources
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\obj\Debug\MyFreeZooZalevac.csproj.GenerateResource.cache
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\obj\Debug\MyFreeZooZalevac.csproj.CoreCompileInputs.cache
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\obj\Debug\MyFreeZooZalevac.exe
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\obj\Debug\MyFreeZooZalevac.pdb
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\bin\Debug\FastBitmap.dll
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\bin\Debug\System.Drawing.Common.dll
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\bin\Debug\System.Drawing.Common.xml
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\obj\Debug\MyFreeZooZalevac.csproj.CopyComplete
+C:\Users\Aneticka\source\repos\MyFreeZooZalevac\MyFreeZooZalevac\obj\Debug\MyFreeZooZalevac.Form1.resources
